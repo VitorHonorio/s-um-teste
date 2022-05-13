@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290848726339",
+    "project_id": "fitmood-bf357",
+    "storage_bucket": "fitmood-bf357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290848726339:android:e0ba09625cadbe4b4ce3f6",
+        "android_client_info": {
+          "package_name": "com.projetomood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290848726339-if70behg1adqc3bj85agsd0vrtnn2b12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtKxMgkV8dBfcFKtf297yugeFhLB3HIhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290848726339-if70behg1adqc3bj85agsd0vrtnn2b12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

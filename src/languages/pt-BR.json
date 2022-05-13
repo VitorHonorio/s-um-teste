@@ -1,0 +1,30 @@
+{
+    "translation": {
+        "i18n.welcome": "Seja bem-vindo!",
+        "i18n.email": "E-mail",
+        "i18n.password": "Senha",
+        "i18n.signin": "Entrar",
+        "i18n.successfullylogged": "Logado com sucesso",
+        "i18n.register": "Cadastre-se",
+        "i18n.forgotpassword": "Esqueci minha senha",
+        "i18n.registration": "Cadastro",
+        "i18n.successfullyregistrated": "Usuário cadastrado com sucesso",
+        "i18n.incorrectemail": "E-mail incorreto",
+        "i18n.typevalidemail": "Digite um email válido (@fitec.org.br)",
+        "i18n.mainmessage": "Como você está se sentindo hoje?",
+        "i18n.mymoods": "Meus Moods",
+        "i18n.myfeedbacks": "Meus Feedbacks",
+        "i18n.logout": "Sair",
+        "i18n.successfullyloggedout": "You have successfully logged out",
+        "PlenoScreen": "Que bom que você está pleno! Não tem como melhorar!",
+        "FelizScreen": "Bora ser feliz porque faz bem para a saúde.",
+        "NeutroScreen": "Não estou feliz e nem triste, não há definição. Estou apenas vivendo sem razão.",
+        "TristeScreen": "Não fique triste, tudo vai melhorar.",
+        "PessimoScreen": "Ninguém consegue ser forte o tempo todo.",
+        "FeedbackPositivo": "Compartilhe sua felicidade conosco. Clique abaixo para nos enviar uma mensagem.",
+        "FeedbackNegativo": "Podemos te ajudar em algo? Nos envie uma mensagem clicando abaixo, ou volte para a tela principal.",
+        "i18n.placeholder": "Digite sua mensagem",
+        "i18n.messagesent": "Mensagem enviada com sucesso!",
+        "i18n.thanksfeeback": "Agradecemos pelo seu feedback."
+    }
+}

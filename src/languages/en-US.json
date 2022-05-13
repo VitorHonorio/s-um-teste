@@ -1,0 +1,30 @@
+{
+    "translation": {
+        "i18n.welcome": "Welcome!",
+        "i18n.email": "E-mail",
+        "i18n.password": "Password",
+        "i18n.signin": "Sign in",
+        "i18n.successfullylogged": "Sucessfully logged in",
+        "i18n.register": "Register",
+        "i18n.forgotpassword": "I forgot my password",
+        "i18n.registration": "Registration",
+        "i18n.successfullyregistrated": "User successfully registrated",
+        "i18n.incorrectemail": "Incorrect e-mail",
+        "i18n.typevalidemail": "Enter a valid e-mail adress (@fitec.org.br)",
+        "i18n.mainmessage": "How are you feeling today?",
+        "i18n.mymoods": "My Moods",
+        "i18n.myfeedbacks": "My Feedbacks",
+        "i18n.logout": "Logout",
+        "i18n.successfullyloggedout": "You have successfully logged out",
+        "PlenoScreen": "Glad you're perfect. Can't get any better!",
+        "FelizScreen": "Let's be happy because it's good for your health.",
+        "NeutroScreen": "I'm not happy or sad, there is no definition. I'm just living for no reason.",
+        "TristeScreen": "Don't be sad, everything will get better.",
+        "PessimoScreen": "Nobody can be strong all the time.",
+        "FeedbackPositivo": "Share your happiness with us. Click bellow to send us a message.",
+        "FeedbackNegativo": "Can we help you with something? Send us a message by clicking bellow, or go back to the main screen.",
+        "i18n.placeholder": "Type your message",
+        "i18n.messagesent": "Message sent successfully!",
+        "i18n.thanksfeeback": "Thanks for your feedback."
+    }
+}
